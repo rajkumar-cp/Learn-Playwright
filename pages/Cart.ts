@@ -13,3 +13,7 @@ export async function verifySubTotal(page: Page, expectedSubTotal: string) {
         expect(subtotal).toBe(expectedSubTotal);
     });
 }
+
+export async function clickProceedToCheckout(page: Page) {
+    await page.locator('[data-test-id="proceed-to-checkout"]').click();
+}
