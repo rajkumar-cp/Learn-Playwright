@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "mailslurp-client": "^17.0.0",
     "playwright": "^1.58.2"
   },
   "devDependencies": {
