@@ -1,0 +1,6 @@
+{
+    "playwright.env": {
+        "MAILSLURP_API_KEY": "sk_zw8Bv3GxLTt310LX_K9uebsc3xGY3mBpf6LZ5htun3pkg8HGDCkmCxQE62iF3DWIKoCnEXfM6XjK5qs3I",
+        "TEST_SIGNUP_FLOW": "true"
+    }
+}
