@@ -41,5 +41,5 @@ test.describe("Signup", () => {
       };
       writeFileSync('playwright/.auth/credentials.json', JSON.stringify(credentials, null, 2));
     });
-    });
+  });
 });
